@@ -15,13 +15,14 @@ Resources:
 [Python] https://www.learnpython.org/
 
 <!--inspiring image-->
-[image]https://t3.ftcdn.net/jpg/09/03/04/68/360_F_903046810_jNm1LrW4ujeS08CWAYmu8uLSfHi5KnOl.jpg
+[image]https://www.agilitics.edu.sg/wp-content/uploads/2022/07/become-data-analytics.png
+<p>  I'm interested in becoming a Data Analyst because I enjoy working with data to solve problems and uncover insights that can help businesses make informed decisions. I have a strong foundation in SQL, Excel, and data visualization tools, and I find it fulfilling to turn raw data into clear, actionable information.
 
-<p>     It's a reminder that progress isn't always about speed, but about perseverance. Whether you're learning something new, facing challenges, or chasing a big dream, this phrase tells you to keep moving forward, no matter how slow or uncertain it feels.</p>
-    
-<p>Even when the path is unclear, and motivation is low, “keep going” encourages you to trust the process. Growth often happens quietly in the background — in the effort you put in, in the setbacks you overcome, and in the lessons you gather.</p>
+What excites me most about the role is the opportunity to combine technical skills with business thinking — exploring trends, identifying patterns, and telling stories through data. I'm naturally curious and detail-oriented, and I like asking questions like: “What’s driving this change?” or “How can we improve this process?”
 
-<p > So when you're tired, doubting yourself, or feel stuck, remember: You don't need to have all the answers — you just need to keep going. The finish line will get closer with every step.</p>
+Given my background in IT support and teaching, I also bring strong communication skills, which I believe are essential for explaining data insights to both technical and non-technical teams.
+
+Ultimately, I see data analytics as a career where I can make a meaningful impact by helping organizations make smarter, data-driven decisions   </p>
 
 
 
